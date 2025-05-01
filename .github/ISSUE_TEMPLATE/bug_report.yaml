@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         # Bug Report
-
+        
         ## Important Notes
 
         - **Before submitting a bug report**: Please check the [Issues](https://github.com/open-webui/open-webui/issues) or [Discussions](https://github.com/open-webui/open-webui/discussions) sections to see if a similar issue has already been reported. If unsure, start a discussion first, as this helps us efficiently focus on improving the project.
